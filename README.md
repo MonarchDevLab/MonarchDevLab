@@ -63,14 +63,13 @@ _From enterprise B2B software and network optimization utilities to generative s
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MonarchDevLab&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonarchDevLab&bg_color=020617&color=00edff&line=ff642b&point=00edff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonarchDevLab&show_icons=true&hide_border=true&title_color=00edff&icon_color=ff642b&text_color=94a3b8&bg_color=020617" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchDevLab&layout=compact&hide_border=true&title_color=00edff&icon_color=ff642b&text_color=94a3b8&bg_color=020617" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonarchDevLab&background=020617&stroke=00EDFF&ring=FF642B&fire=FF642B&currStreakNum=00EDFF&sideNums=00EDFF&currStreakLabel=FF642B&sideLabels=FF642B&dates=94A3B8&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br>
