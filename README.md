@@ -3,26 +3,24 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff642b,100:00edff&height=250&section=header&text=MONOLITH%20WORKS&fontSize=62&fontColor=020617&animation=fadeIn&fontAlignY=38&desc=Architects%20of%20Digital%20Evolution&descAlignY=60&descSize=20)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/antigravity.png" width="38" height="38" alt="Antigravity" title="Antigravity" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/claude-logo.svg" width="38" height="38" alt="Claude" title="Claude" />
+  <a href="https://www.monolithworks.com.tr">
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/monolith-logo.svg" width="46" height="46" alt="Monolith Works" title="Monolith Works" />
+  </a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00EDFF&center=true&vCenter=true&width=750&lines=From+Idea+to+Design,+From+Code+to+Future;Fikirden+Tasar%C4%B1ma,+Koddan+Gelece%C4%9Fe;Custom+B2B+Software+Engineering+%26+Systems;%C3%96zel+B2B+Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+ve+Sistemler;High-Performance+Web+Architecture+%26+GEO;Y%C3%BCksek+Performansl%C4%B1+Web+Mimarisi+ve+GEO;Brand+Strategy+%26+Corporate+Identity;Marka+Stratejisi+ve+Kurumsal+Kimlik" alt="Typing SVG" />
 
 <br><br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/antigravity.png" width="36" height="36" alt="Antigravity" title="Antigravity" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/claude-logo.svg" width="36" height="36" alt="Claude" title="Claude" />
+</p>
+
 <a href="https://www.monolithworks.com.tr">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,supabase,postgres,html,css,php,cloudflare&theme=dark" />
 </a>
-
-<br><br>
-
-<p align="center">
-  <a href="#system-capabilities"><img src="https://img.shields.io/badge/SECTION-ENGLISH-020617?style=flat-square&labelColor=020617&color=00edff" alt="English Section" /></a>
-  &nbsp;&nbsp;
-  <a href="#temel-yetenekler"><img src="https://img.shields.io/badge/BÖLÜM-TÜRKÇE-020617?style=flat-square&labelColor=020617&color=ff642b" alt="Türkçe Bölüm" /></a>
-</p>
 
 </div>
 
