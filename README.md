@@ -1,12 +1,12 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%2300edff" width="36" height="36" alt="Antigravity" title="Antigravity" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23ff642b" width="36" height="36" alt="Claude" title="Claude" />
-</p>
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff642b,100:00edff&height=250&section=header&text=MONOLITH%20WORKS&fontSize=62&fontColor=020617&animation=fadeIn&fontAlignY=38&desc=Architects%20of%20Digital%20Evolution&descAlignY=60&descSize=20)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/antigravity.png" width="38" height="38" alt="Antigravity" title="Antigravity" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/claude.svg" width="38" height="38" alt="Claude" title="Claude" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00EDFF&center=true&vCenter=true&width=750&lines=From+Idea+to+Design,+From+Code+to+Future;Custom+B2B+Software+Engineering+%26+Systems;High-Performance+Web+Architecture+%26+GEO;Brand+Strategy+%26+Corporate+Identity" alt="Typing SVG" />
 
@@ -18,12 +18,17 @@
 
 <br><br>
 
-_We do not assemble fragile, scattered templates. We build single, high-durability digital monoliths._<br>
-_From enterprise B2B software and network optimization utilities to generative search visibility (GEO) and corporate identity, we engineer digital evolution._
+<b><a href="#english">English</a></b> • <b><a href="#turkce">Türkçe</a></b>
 
 </div>
 
 <br>
+
+<div id="english">
+
+## Overview
+
+We do not assemble fragile, scattered templates. We build single, high-durability digital monoliths. From enterprise B2B software and network optimization utilities to generative search visibility (GEO) and corporate identity, we engineer digital evolution.
 
 <table align="center" width="100%">
   <tr>
@@ -34,7 +39,7 @@ _From enterprise B2B software and network optimization utilities to generative s
           <b>Custom B2B Software:</b> Scalable web architectures, enterprise platforms, and business automation systems built with Next.js, React, and Supabase.
         </li>
         <li>
-          <b>Search Architecture & GEO:</b> Technical SEO engineering combined with Generative Engine Optimization to dominate both classic engines and AI-assisted search.
+          <b>Search Architecture & GEO:</b> Technical SEO engineering combined with Generative Engine Optimization to dominate both classic search engines and AI-assisted answer engines.
         </li>
         <li>
           <b>Corporate Identity & Strategy:</b> Precision brand systems, technical editorial layouts, catalog engineering, and digital identity management.
@@ -59,6 +64,55 @@ _From enterprise B2B software and network optimization utilities to generative s
     </td>
   </tr>
 </table>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div id="turkce">
+
+## Genel Bakış
+
+Kırılgan ve dağınık şablonları bir araya getirmiyoruz. Tek parça, yüksek dayanıklılığa sahip dijital monolitler inşa ediyoruz. Özel B2B kurumsal yazılımlardan ağ seviyesinde optimizasyon araçlarına, üretken arama optimizasyonundan (GEO) kurumsal kimliğe kadar dijital evrimin mimarlığını üstleniyoruz.
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TEMEL YETENEKLER</h3>
+      <ul>
+        <li>
+          <b>Özel B2B Yazılım Sistemleri:</b> Next.js, React ve Supabase ile inşa edilen ölçeklenebilir web mimarileri, kurumsal platformlar ve iş otomasyon sistemleri.
+        </li>
+        <li>
+          <b>Arama Mimarisi & GEO:</b> Hem geleneksel arama motorlarında hem de yapay zeka arama sistemlerinde mutlak görünürlük sağlayan teknik SEO ve Generative Engine Optimization mühendisliği.
+        </li>
+        <li>
+          <b>Kurumsal Kimlik & Marka Stratejisi:</b> Yüksek hassasiyetli marka sistemleri, teknik editoryal mizanpajlar, katalog tasarımı ve dijital kurumsal miras yönetimi.
+        </li>
+        <li>
+          <b>Yüksek Performans & Dönüşüm:</b> Kusursuz Core Web Vitals standartları ve dönüşüm odaklı kullanıcı deneyimi mimarileri.
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">LABORATUVAR & AKTİF SİSTEMLER</h3>
+      <ul>
+        <li>
+          <b><a href="https://github.com/MonarchDevLab/Anticore">Anticore</a></b><br>
+          Windows ve macOS için sıfır hız kayıplı, şeffaf DPI atlatma ve ağ optimizasyon paketi.
+        </li>
+        <li>
+          <b><a href="https://github.com/MonarchDevLab/WebClone-Studio">WebClone-Studio</a></b><br>
+          Yüksek performanslı web mimarisi çıkarma, DOM analizi ve kayıpsız çevrimdışı aynalama iş istasyonu.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
