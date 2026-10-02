@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/antigravity.png" width="38" height="38" alt="Antigravity" title="Antigravity" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/claude.svg" width="38" height="38" alt="Claude" title="Claude" />
+  <img src="https://api.iconify.design/simple-icons/claude.svg?color=%23ff642b" width="38" height="38" alt="Claude" title="Claude" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00EDFF&center=true&vCenter=true&width=750&lines=From+Idea+to+Design,+From+Code+to+Future;Custom+B2B+Software+Engineering+%26+Systems;High-Performance+Web+Architecture+%26+GEO;Brand+Strategy+%26+Corporate+Identity" alt="Typing SVG" />
@@ -13,18 +13,12 @@
 <br><br>
 
 <a href="https://www.monolithworks.com.tr">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,supabase,postgres,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,supabase,postgres,html,css,php,cloudflare&theme=dark" />
 </a>
-
-<br><br>
-
-<b><a href="#english">English</a></b> • <b><a href="#turkce">Türkçe</a></b>
 
 </div>
 
 <br>
-
-<div id="english">
 
 ## Overview
 
@@ -69,13 +63,9 @@ We do not assemble fragile, scattered templates. We build single, high-durabilit
   </a>
 </p>
 
-</div>
-
 <br>
 <hr>
 <br>
-
-<div id="turkce">
 
 ## Genel Bakış
 
@@ -119,8 +109,6 @@ Kırılgan ve dağınık şablonları bir araya getirmiyoruz. Tek parça, yükse
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=WebClone-Studio&bg_color=020617&title_color=00edff&icon_color=ff642b&text_color=94a3b8&hide_border=true" alt="WebClone-Studio" />
   </a>
 </p>
-
-</div>
 
 <br>
 
