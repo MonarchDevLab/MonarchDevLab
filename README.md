@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/antigravity.png" width="38" height="38" alt="Antigravity" title="Antigravity" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/claude.svg?color=%23ff642b" width="38" height="38" alt="Claude" title="Claude" />
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/claude-logo.svg" width="38" height="38" alt="Claude" title="Claude" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00EDFF&center=true&vCenter=true&width=750&lines=From+Idea+to+Design,+From+Code+to+Future;Custom+B2B+Software+Engineering+%26+Systems;High-Performance+Web+Architecture+%26+GEO;Brand+Strategy+%26+Corporate+Identity" alt="Typing SVG" />
@@ -16,42 +16,33 @@
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,supabase,postgres,html,css,php,cloudflare&theme=dark" />
 </a>
 
+<br><br>
+
+<p align="center">
+  <a href="#system-capabilities"><img src="https://img.shields.io/badge/SECTION-ENGLISH-020617?style=flat-square&labelColor=020617&color=00edff" alt="English Section" /></a>
+  &nbsp;&nbsp;
+  <a href="#temel-yetenekler"><img src="https://img.shields.io/badge/BÖLÜM-TÜRKÇE-020617?style=flat-square&labelColor=020617&color=ff642b" alt="Türkçe Bölüm" /></a>
+</p>
+
 </div>
 
 <br>
 
-## Overview
+<div id="system-capabilities">
 
-We do not assemble fragile, scattered templates. We build single, high-durability digital monoliths. From enterprise B2B software and network optimization utilities to generative search visibility (GEO) and corporate identity, we engineer digital evolution.
+### // 01 . SYSTEM ARCHITECTURE & CAPABILITIES
 
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>CUSTOM B2B SOFTWARE</h4>
-      Scalable web architectures, enterprise platforms, and automation systems built with Next.js, React, and Supabase.
-    </td>
-    <td width="50%" valign="top">
-      <h4>SEARCH ARCHITECTURE & GEO</h4>
-      Technical SEO engineering combined with Generative Engine Optimization for AI-assisted and classic search.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>CORPORATE IDENTITY & STRATEGY</h4>
-      Precision brand systems, technical editorial layouts, catalog engineering, and digital identity management.
-    </td>
-    <td width="50%" valign="top">
-      <h4>PERFORMANCE & CONVERSION</h4>
-      High-throughput web applications with strict Core Web Vitals compliance and conversion-focused architectures.
-    </td>
-  </tr>
-</table>
+> **Engineering Philosophy:** We do not assemble fragile, scattered templates. We build single, high-durability digital monoliths. From enterprise B2B software and network optimization utilities to generative search visibility (GEO) and corporate identity, we engineer digital evolution.
 
 <br>
 
-### Featured Systems
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/capabilities-en.svg" width="100%" alt="System Architecture and Capabilities" />
+</p>
+
+<br>
+
+### // FEATURED ARCHITECTURES
 
 <p align="center">
   <a href="https://github.com/MonarchDevLab/Anticore">
@@ -62,43 +53,28 @@ We do not assemble fragile, scattered templates. We build single, high-durabilit
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=WebClone-Studio&bg_color=020617&title_color=00edff&icon_color=ff642b&text_color=94a3b8&hide_border=true" alt="WebClone-Studio" />
   </a>
 </p>
+
+</div>
 
 <br>
 <hr>
 <br>
 
-## Genel Bakış
+<div id="temel-yetenekler">
 
-Kırılgan ve dağınık şablonları bir araya getirmiyoruz. Tek parça, yüksek dayanıklılığa sahip dijital monolitler inşa ediyoruz. Özel B2B kurumsal yazılımlardan ağ seviyesinde optimizasyon araçlarına, üretken arama optimizasyonundan (GEO) kurumsal kimliğe kadar dijital evrimin mimarlığını üstleniyoruz.
+### // 02 . TEMEL YETENEKLER VE MİMARİ
 
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>ÖZEL B2B YAZILIM SİSTEMLERİ</h4>
-      Next.js, React ve Supabase ile inşa edilen ölçeklenebilir web mimarileri, kurumsal platformlar ve iş otomasyon sistemleri.
-    </td>
-    <td width="50%" valign="top">
-      <h4>ARAMA MİMARİSİ & GEO</h4>
-      Klasik arama motorlarında ve yapay zeka arama sistemlerinde mutlak görünürlük sağlayan teknik SEO ve GEO mühendisliği.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>KURUMSAL KİMLİK & STRATEJİ</h4>
-      Yüksek hassasiyetli marka sistemleri, teknik editoryal mizanpajlar, katalog tasarımı ve dijital miras yönetimi.
-    </td>
-    <td width="50%" valign="top">
-      <h4>YÜKSEK PERFORMANS & DÖNÜŞÜM</h4>
-      Kusursuz Core Web Vitals standartları ve dönüşüm odaklı kullanıcı deneyimi mimarileri.
-    </td>
-  </tr>
-</table>
+> **Mühendislik Felsefesi:** Kırılgan ve dağınık şablonları bir araya getirmiyoruz. Tek parça, yüksek dayanıklılığa sahip dijital monolitler inşa ediyoruz. Özel B2B kurumsal yazılımlardan ağ seviyesinde optimizasyon araçlarına, üretken arama optimizasyonundan (GEO) kurumsal kimliğe kadar dijital evrimin mimarlığını üstleniyoruz.
 
 <br>
 
-### Öne Çıkan Sistemler
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/capabilities-tr.svg" width="100%" alt="Temel Yetenekler ve Mimari" />
+</p>
+
+<br>
+
+### // ÖNE ÇIKAN SİSTEMLER
 
 <p align="center">
   <a href="https://github.com/MonarchDevLab/Anticore">
@@ -109,6 +85,8 @@ Kırılgan ve dağınık şablonları bir araya getirmiyoruz. Tek parça, yükse
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=WebClone-Studio&bg_color=020617&title_color=00edff&icon_color=ff642b&text_color=94a3b8&hide_border=true" alt="WebClone-Studio" />
   </a>
 </p>
+
+</div>
 
 <br>
 

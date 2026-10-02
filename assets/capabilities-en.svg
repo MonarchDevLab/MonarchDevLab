@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="260" viewBox="0 0 850 260" fill="none">
+  <defs>
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00EDFF" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#00EDFF" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00EDFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="orange-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF642B" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#FF642B" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#FF642B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- CARD 1: CUSTOM B2B SOFTWARE -->
+  <g transform="translate(0, 0)">
+    <rect width="415" height="120" rx="8" fill="#070d1e" stroke="#00EDFF" stroke-width="1" stroke-opacity="0.25"/>
+    <rect x="0" y="0" width="160" height="2" fill="url(#cyan-glow)" rx="1"/>
+    <g transform="translate(18, 16)" stroke="#00EDFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <polyline points="4 6 9 11 4 16"/>
+      <line x1="12" y1="16" x2="19" y2="16"/>
+    </g>
+    <text x="46" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" fill="#00EDFF" letter-spacing="0.5px">CUSTOM B2B SOFTWARE</text>
+    <rect x="305" y="16" width="94" height="18" rx="4" fill="#00EDFF" fill-opacity="0.1" stroke="#00EDFF" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text x="352" y="29" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#00EDFF" text-anchor="middle" font-weight="600">ENTERPRISE</text>
+    <text x="18" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">Scalable web architectures, enterprise platforms, and</text>
+    <text x="18" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">automation systems built with Next.js, React, and Supabase.</text>
+    <text x="18" y="103" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#475569">STACK: <tspan fill="#38bdf8">Next.js</tspan> • <tspan fill="#38bdf8">React</tspan> • <tspan fill="#38bdf8">Supabase</tspan> • <tspan fill="#38bdf8">Node.js</tspan></text>
+  </g>
+
+  <!-- CARD 2: SEARCH ARCHITECTURE & GEO -->
+  <g transform="translate(435, 0)">
+    <rect width="415" height="120" rx="8" fill="#070d1e" stroke="#FF642B" stroke-width="1" stroke-opacity="0.25"/>
+    <rect x="0" y="0" width="160" height="2" fill="url(#orange-glow)" rx="1"/>
+    <g transform="translate(18, 16)" stroke="#FF642B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <circle cx="9" cy="9" r="6"/>
+      <line x1="17" y1="17" x2="13.5" y2="13.5"/>
+      <line x1="9" y1="6" x2="9" y2="12"/>
+      <line x1="6" y1="9" x2="12" y2="9"/>
+    </g>
+    <text x="46" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" fill="#FF642B" letter-spacing="0.5px">SEARCH ARCHITECTURE &amp; GEO</text>
+    <rect x="317" y="16" width="82" height="18" rx="4" fill="#FF642B" fill-opacity="0.1" stroke="#FF642B" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text x="358" y="29" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#FF642B" text-anchor="middle" font-weight="600">AI_SEARCH</text>
+    <text x="18" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">Technical SEO engineering combined with Generative Engine</text>
+    <text x="18" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">Optimization for AI-assisted and algorithmic discovery.</text>
+    <text x="18" y="103" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#475569">STACK: <tspan fill="#fb923c">Technical SEO</tspan> • <tspan fill="#fb923c">GEO Engine</tspan> • <tspan fill="#fb923c">LLM Citation</tspan></text>
+  </g>
+
+  <!-- CARD 3: CORPORATE IDENTITY & STRATEGY -->
+  <g transform="translate(0, 140)">
+    <rect width="415" height="120" rx="8" fill="#070d1e" stroke="#FF642B" stroke-width="1" stroke-opacity="0.25"/>
+    <rect x="0" y="0" width="160" height="2" fill="url(#orange-glow)" rx="1"/>
+    <g transform="translate(18, 16)" stroke="#FF642B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <polygon points="10 2 2 6 10 10 18 6 10 2"/>
+      <polyline points="2 10 10 14 18 10"/>
+      <polyline points="2 14 10 18 18 14"/>
+    </g>
+    <text x="46" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" fill="#FF642B" letter-spacing="0.5px">CORPORATE IDENTITY &amp; STRATEGY</text>
+    <rect x="295" y="16" width="104" height="18" rx="4" fill="#FF642B" fill-opacity="0.1" stroke="#FF642B" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text x="347" y="29" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#FF642B" text-anchor="middle" font-weight="600">BRAND_SYSTEM</text>
+    <text x="18" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">Precision brand systems, technical editorial layouts,</text>
+    <text x="18" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">catalog engineering, and corporate digital identity.</text>
+    <text x="18" y="103" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#475569">STACK: <tspan fill="#fb923c">Design System</tspan> • <tspan fill="#fb923c">Typography</tspan> • <tspan fill="#fb923c">Vector Asset</tspan></text>
+  </g>
+
+  <!-- CARD 4: PERFORMANCE & CONVERSION -->
+  <g transform="translate(435, 140)">
+    <rect width="415" height="120" rx="8" fill="#070d1e" stroke="#00EDFF" stroke-width="1" stroke-opacity="0.25"/>
+    <rect x="0" y="0" width="160" height="2" fill="url(#cyan-glow)" rx="1"/>
+    <g transform="translate(18, 16)" stroke="#00EDFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <polygon points="11 2 3 11 10 11 9 18 17 9 10 9 11 2"/>
+    </g>
+    <text x="46" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" fill="#00EDFF" letter-spacing="0.5px">PERFORMANCE &amp; CONVERSION</text>
+    <rect x="303" y="16" width="96" height="18" rx="4" fill="#00EDFF" fill-opacity="0.1" stroke="#00EDFF" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text x="351" y="29" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#00EDFF" text-anchor="middle" font-weight="600">CORE_VITALS</text>
+    <text x="18" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">High-throughput web applications with strict Core Web</text>
+    <text x="18" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#94A3B8">Vitals compliance and conversion-focused architectures.</text>
+    <text x="18" y="103" font-family="'SF Mono', 'Fira Code', monospace" font-size="9.5" fill="#475569">STACK: <tspan fill="#38bdf8">Web Vitals</tspan> • <tspan fill="#38bdf8">Edge Compute</tspan> • <tspan fill="#38bdf8">Latency Opt</tspan></text>
+  </g>
+</svg>
