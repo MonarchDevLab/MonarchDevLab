@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="850" height="160" fill="none">
+  <style>
+    @font-face {
+      font-family: 'Fira Code';
+      font-style: normal;
+      font-weight: 400;
+      src: local('Fira Code'), local('SF Mono'), local('Menlo'), local('Consolas'), monospace;
+    }
+    .code-font {
+      font-family: 'Fira Code', 'SF Mono', Menlo, Consolas, monospace;
+    }
+    .cursor {
+      animation: blink 0.75s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .glow-dot {
+      animation: pulse-dot 2s ease-in-out infinite;
+    }
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 0.9; }
+      50% { opacity: 0.3; }
+    }
+
+    /* Animation frames */
+    .f1-a { animation: a-f1a 16s infinite; }
+    .f1-b { animation: a-f1b 16s infinite; }
+    .f1-c { animation: a-f1c 16s infinite; }
+
+    .f2-a { animation: a-f2a 16s infinite; }
+    .f2-b { animation: a-f2b 16s infinite; }
+    .f2-c { animation: a-f2c 16s infinite; }
+
+    .f3-a { animation: a-f3a 16s infinite; }
+    .f3-b { animation: a-f3b 16s infinite; }
+    .f3-c { animation: a-f3c 16s infinite; }
+
+    .f4-a { animation: a-f4a 16s infinite; }
+    .f4-b { animation: a-f4b 16s infinite; }
+    .f4-c { animation: a-f4c 16s infinite; }
+
+    /* Phase 1: 0% to 25% */
+    @keyframes a-f1a {
+      0%, 1.8% { opacity: 1; display: inline; }
+      2%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f1b {
+      0%, 1.9% { opacity: 0; display: none; }
+      2%, 3.8% { opacity: 1; display: inline; }
+      4%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f1c {
+      0%, 3.9% { opacity: 0; display: none; }
+      4%, 23.5% { opacity: 1; display: inline; }
+      24%, 100% { opacity: 0; display: none; }
+    }
+
+    /* Phase 2: 25% to 50% */
+    @keyframes a-f2a {
+      0%, 24.9% { opacity: 0; display: none; }
+      25%, 26.8% { opacity: 1; display: inline; }
+      27%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f2b {
+      0%, 26.9% { opacity: 0; display: none; }
+      27%, 28.8% { opacity: 1; display: inline; }
+      29%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f2c {
+      0%, 28.9% { opacity: 0; display: none; }
+      29%, 48.5% { opacity: 1; display: inline; }
+      49%, 100% { opacity: 0; display: none; }
+    }
+
+    /* Phase 3: 50% to 75% */
+    @keyframes a-f3a {
+      0%, 49.9% { opacity: 0; display: none; }
+      50%, 51.8% { opacity: 1; display: inline; }
+      52%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f3b {
+      0%, 51.9% { opacity: 0; display: none; }
+      52%, 53.8% { opacity: 1; display: inline; }
+      54%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f3c {
+      0%, 53.9% { opacity: 0; display: none; }
+      54%, 73.5% { opacity: 1; display: inline; }
+      74%, 100% { opacity: 0; display: none; }
+    }
+
+    /* Phase 4: 75% to 100% */
+    @keyframes a-f4a {
+      0%, 74.9% { opacity: 0; display: none; }
+      75%, 76.8% { opacity: 1; display: inline; }
+      77%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f4b {
+      0%, 76.9% { opacity: 0; display: none; }
+      77%, 78.8% { opacity: 1; display: inline; }
+      79%, 100% { opacity: 0; display: none; }
+    }
+    @keyframes a-f4c {
+      0%, 78.9% { opacity: 0; display: none; }
+      79%, 98.5% { opacity: 1; display: inline; }
+      99%, 100% { opacity: 0; display: none; }
+    }
+  </style>
+
+  <!-- Window Container -->
+  <rect width="850" height="160" rx="10" fill="#020617" stroke="#00EDFF" stroke-width="1" stroke-opacity="0.25"/>
+  
+  <!-- Window Header Bar -->
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H840C845.523 0 850 4.47715 850 10V32H0V10Z" fill="#070d1e"/>
+  <line x1="0" y1="32" x2="850" y2="32" stroke="#1e293b" stroke-width="1"/>
+  
+  <!-- Terminal Control Dots -->
+  <circle cx="18" cy="16" r="4.5" fill="#FF642B"/>
+  <circle cx="32" cy="16" r="4.5" fill="#00EDFF"/>
+  <circle cx="46" cy="16" r="4.5" fill="#334155"/>
+  
+  <!-- Header Title -->
+  <text x="64" y="20" class="code-font" font-size="11" fill="#64748B">monolith-works // shell v4.2 [scramble-engine]</text>
+  
+  <!-- Status Badge Right -->
+  <circle cx="760" cy="16" r="3.5" fill="#00EDFF" class="glow-dot"/>
+  <text x="772" y="20" class="code-font" font-size="10" fill="#00EDFF" font-weight="600">LIVE_STREAM</text>
+
+  <!-- Prompt Command Line -->
+  <g transform="translate(20, 54)">
+    <text class="code-font" font-size="12.5">
+      <tspan fill="#FF642B" font-weight="600">monolith@kernel</tspan><tspan fill="#64748B">:</tspan><tspan fill="#00EDFF">~/evolution</tspan><tspan fill="#64748B">$ </tspan><tspan fill="#94A3B8">run --scramble-stream --dual-lang</tspan>
+    </text>
+  </g>
+
+  <!-- PHASE 1: VISION -->
+  <g class="f1-a" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#00EDFF" opacity="0.85">&gt; [DECODE_0x7F]: %$#@!^&amp;*~&lt;&gt;{}[] 01010110 01100101</text>
+    <text y="26" class="code-font" font-size="12" fill="#FF642B" opacity="0.7">// SYNC: ~^#$@!%*&amp; 0x0A9F // [MEM_BUFFER_ALLOC]</text>
+  </g>
+  <g class="f1-b" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#38BDF8">&gt; const V1SI0N = &quot;Fr0m Id#a t0 D&amp;sign, Fr0m C0de t0 F#ture&quot;;</text>
+    <text y="26" class="code-font" font-size="12" fill="#94A3B8">// TR: &quot;F!kirden T#sar%ma, K0ddan G#lecege&quot;</text>
+  </g>
+  <g class="f1-c" transform="translate(20, 84)">
+    <text class="code-font" font-size="13">
+      <tspan fill="#FF642B" font-weight="600">&gt; const </tspan><tspan fill="#00EDFF" font-weight="600">VISION </tspan><tspan fill="#64748B">= </tspan><tspan fill="#38BDF8">&quot;From Idea to Design, From Code to Future&quot;</tspan><tspan fill="#64748B">;</tspan><tspan fill="#00EDFF" class="cursor">█</tspan>
+    </text>
+    <text y="26" class="code-font" font-size="12">
+      <tspan fill="#64748B">// TR: </tspan><tspan fill="#94A3B8">&quot;Fikirden Tasarıma, Koddan Geleceğe&quot;</tspan>
+    </text>
+  </g>
+
+  <!-- PHASE 2: SYSTEMS -->
+  <g class="f2-a" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#00EDFF" opacity="0.85">&gt; [DECODE_0x8B]: #@!$%&amp;^~*&lt;&gt;{}[] 11001010 01100010</text>
+    <text y="26" class="code-font" font-size="12" fill="#FF642B" opacity="0.7">// SYNC: @#&amp;!%$~^* 0x0B4C // [B2B_MODULE_RESOLVE]</text>
+  </g>
+  <g class="f2-b" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#38BDF8">&gt; const SYST#MS = &quot;C#st0m B2B S0ftw&amp;re Eng!neering &amp; Syst#ms&quot;;</text>
+    <text y="26" class="code-font" font-size="12" fill="#94A3B8">// TR: &quot;Oz#l B2B Y#z%l%m M#hendisligi v# Sist#mler&quot;</text>
+  </g>
+  <g class="f2-c" transform="translate(20, 84)">
+    <text class="code-font" font-size="13">
+      <tspan fill="#FF642B" font-weight="600">&gt; const </tspan><tspan fill="#00EDFF" font-weight="600">SYSTEMS </tspan><tspan fill="#64748B">= </tspan><tspan fill="#38BDF8">&quot;Custom B2B Software Engineering &amp; Systems&quot;</tspan><tspan fill="#64748B">;</tspan><tspan fill="#00EDFF" class="cursor">█</tspan>
+    </text>
+    <text y="26" class="code-font" font-size="12">
+      <tspan fill="#64748B">// TR: </tspan><tspan fill="#94A3B8">&quot;Özel B2B Yazılım Mühendisliği ve Sistemler&quot;</tspan>
+    </text>
+  </g>
+
+  <!-- PHASE 3: ARCHITECTURE & GEO -->
+  <g class="f3-a" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#00EDFF" opacity="0.85">&gt; [DECODE_0xC3]: &amp;*^%$#@!~&lt;&gt;{}[] 01110100 01100101</text>
+    <text y="26" class="code-font" font-size="12" fill="#FF642B" opacity="0.7">// SYNC: %$#!@&amp;*~^ 0x0D8E // [GEO_DISCOVERY_INDEX]</text>
+  </g>
+  <g class="f3-b" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#38BDF8">&gt; const #RCH = &quot;H!gh-P#rf0rm&amp;nce W#b Arch!tecture &amp; G#O&quot;;</text>
+    <text y="26" class="code-font" font-size="12" fill="#94A3B8">// TR: &quot;Y%ks#k P#rf0rmansl% W#b Mim#risi v# G#O&quot;</text>
+  </g>
+  <g class="f3-c" transform="translate(20, 84)">
+    <text class="code-font" font-size="13">
+      <tspan fill="#FF642B" font-weight="600">&gt; const </tspan><tspan fill="#00EDFF" font-weight="600">ARCHITECTURE </tspan><tspan fill="#64748B">= </tspan><tspan fill="#38BDF8">&quot;High-Performance Web Architecture &amp; GEO&quot;</tspan><tspan fill="#64748B">;</tspan><tspan fill="#00EDFF" class="cursor">█</tspan>
+    </text>
+    <text y="26" class="code-font" font-size="12">
+      <tspan fill="#64748B">// TR: </tspan><tspan fill="#94A3B8">&quot;Yüksek Performanslı Web Mimarisi ve GEO&quot;</tspan>
+    </text>
+  </g>
+
+  <!-- PHASE 4: BRAND IDENTITY -->
+  <g class="f4-a" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#00EDFF" opacity="0.85">&gt; [DECODE_0xE9]: ^*~&amp;%$#@!&lt;&gt;{}[] 10101110 01100001</text>
+    <text y="26" class="code-font" font-size="12" fill="#FF642B" opacity="0.7">// SYNC: !@#$%^&amp;*~ 0x0E5A // [BRAND_IDENTITY_LINK]</text>
+  </g>
+  <g class="f4-b" transform="translate(20, 84)">
+    <text class="code-font" font-size="13" fill="#38BDF8">&gt; const BR#ND = &quot;Br&amp;nd Str#tegy &amp; C0rp0r&amp;te Id#ntity&quot;;</text>
+    <text y="26" class="code-font" font-size="12" fill="#94A3B8">// TR: &quot;M#rka Str#tejisi v# K#rumsal K!mlik&quot;</text>
+  </g>
+  <g class="f4-c" transform="translate(20, 84)">
+    <text class="code-font" font-size="13">
+      <tspan fill="#FF642B" font-weight="600">&gt; const </tspan><tspan fill="#00EDFF" font-weight="600">BRAND </tspan><tspan fill="#64748B">= </tspan><tspan fill="#38BDF8">&quot;Brand Strategy &amp; Corporate Identity&quot;</tspan><tspan fill="#64748B">;</tspan><tspan fill="#00EDFF" class="cursor">█</tspan>
+    </text>
+    <text y="26" class="code-font" font-size="12">
+      <tspan fill="#64748B">// TR: </tspan><tspan fill="#94A3B8">&quot;Marka Stratejisi ve Kurumsal Kimlik&quot;</tspan>
+    </text>
+  </g>
+
+  <!-- Terminal Status Footer -->
+  <line x1="0" y1="136" x2="850" y2="136" stroke="#1e293b" stroke-width="0.8"/>
+  <g transform="translate(20, 149)">
+    <text class="code-font" font-size="10">
+      <tspan fill="#475569">RUNTIME: </tspan><tspan fill="#38BDF8">V8/EDGE</tspan>
+      <tspan fill="#334155"> │ </tspan>
+      <tspan fill="#475569">PIPELINE: </tspan><tspan fill="#FB923C">GEO+B2B</tspan>
+      <tspan fill="#334155"> │ </tspan>
+      <tspan fill="#475569">CORE_VITALS: </tspan><tspan fill="#00EDFF">100/100</tspan>
+      <tspan fill="#334155"> │ </tspan>
+      <tspan fill="#475569">STATUS: </tspan><tspan fill="#00EDFF">200 OK</tspan>
+    </text>
+  </g>
+</svg>
