@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/claude-logo.svg" width="38" height="38" alt="Claude" title="Claude" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00EDFF&center=true&vCenter=true&width=750&lines=From+Idea+to+Design,+From+Code+to+Future;Custom+B2B+Software+Engineering+%26+Systems;High-Performance+Web+Architecture+%26+GEO;Brand+Strategy+%26+Corporate+Identity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00EDFF&center=true&vCenter=true&width=750&lines=From+Idea+to+Design,+From+Code+to+Future;Fikirden+Tasar%C4%B1ma,+Koddan+Gelece%C4%9Fe;Custom+B2B+Software+Engineering+%26+Systems;%C3%96zel+B2B+Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+ve+Sistemler;High-Performance+Web+Architecture+%26+GEO;Y%C3%BCksek+Performansl%C4%B1+Web+Mimarisi+ve+GEO;Brand+Strategy+%26+Corporate+Identity;Marka+Stratejisi+ve+Kurumsal+Kimlik" alt="Typing SVG" />
 
 <br><br>
 
@@ -100,6 +100,21 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff642b,100:00edff&height=90&section=footer)
 
-**[Website](https://www.monolithworks.com.tr)** • **[LinkedIn](https://www.linkedin.com/company/monolithworks)** • **[Instagram](https://www.instagram.com/monolithworkstudio)**
+<p align="center">
+  <a href="https://www.monolithworks.com.tr">
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/monolith-logo.svg" width="20" height="20" align="center" alt="Monolith Works" />
+    <b>monolithworks.com.tr</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/monolithworks">
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/linkedin.svg" width="20" height="20" align="center" alt="LinkedIn" />
+    <b>LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/monolithworkstudio">
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/instagram.svg" width="20" height="20" align="center" alt="Instagram" />
+    <b>Instagram</b>
+  </a>
+</p>
 
 </div>
