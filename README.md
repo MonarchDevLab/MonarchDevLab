@@ -30,40 +30,44 @@
 
 We do not assemble fragile, scattered templates. We build single, high-durability digital monoliths. From enterprise B2B software and network optimization utilities to generative search visibility (GEO) and corporate identity, we engineer digital evolution.
 
+<br>
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">CORE CAPABILITIES</h3>
-      <ul>
-        <li>
-          <b>Custom B2B Software:</b> Scalable web architectures, enterprise platforms, and business automation systems built with Next.js, React, and Supabase.
-        </li>
-        <li>
-          <b>Search Architecture & GEO:</b> Technical SEO engineering combined with Generative Engine Optimization to dominate both classic search engines and AI-assisted answer engines.
-        </li>
-        <li>
-          <b>Corporate Identity & Strategy:</b> Precision brand systems, technical editorial layouts, catalog engineering, and digital identity management.
-        </li>
-        <li>
-          <b>Performance & Conversion:</b> High-throughput web applications with strict Core Web Vitals compliance and conversion-focused architectures.
-        </li>
-      </ul>
+      <h4>CUSTOM B2B SOFTWARE</h4>
+      Scalable web architectures, enterprise platforms, and automation systems built with Next.js, React, and Supabase.
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">LABS & ACTIVE SYSTEMS</h3>
-      <ul>
-        <li>
-          <b><a href="https://github.com/MonarchDevLab/Anticore">Anticore</a></b><br>
-          Transparent, zero-speed-loss DPI bypass and network optimization suite for Windows and macOS.
-        </li>
-        <li>
-          <b><a href="https://github.com/MonarchDevLab/WebClone-Studio">WebClone-Studio</a></b><br>
-          High-performance web architecture extraction, DOM analysis, and lossless offline mirroring workstation.
-        </li>
-      </ul>
+      <h4>SEARCH ARCHITECTURE & GEO</h4>
+      Technical SEO engineering combined with Generative Engine Optimization for AI-assisted and classic search.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>CORPORATE IDENTITY & STRATEGY</h4>
+      Precision brand systems, technical editorial layouts, catalog engineering, and digital identity management.
+    </td>
+    <td width="50%" valign="top">
+      <h4>PERFORMANCE & CONVERSION</h4>
+      High-throughput web applications with strict Core Web Vitals compliance and conversion-focused architectures.
     </td>
   </tr>
 </table>
+
+<br>
+
+### Featured Systems
+
+<p align="center">
+  <a href="https://github.com/MonarchDevLab/Anticore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=Anticore&bg_color=020617&title_color=00edff&icon_color=ff642b&text_color=94a3b8&hide_border=true" alt="Anticore" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MonarchDevLab/WebClone-Studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=WebClone-Studio&bg_color=020617&title_color=00edff&icon_color=ff642b&text_color=94a3b8&hide_border=true" alt="WebClone-Studio" />
+  </a>
+</p>
 
 </div>
 
@@ -77,47 +81,45 @@ We do not assemble fragile, scattered templates. We build single, high-durabilit
 
 Kırılgan ve dağınık şablonları bir araya getirmiyoruz. Tek parça, yüksek dayanıklılığa sahip dijital monolitler inşa ediyoruz. Özel B2B kurumsal yazılımlardan ağ seviyesinde optimizasyon araçlarına, üretken arama optimizasyonundan (GEO) kurumsal kimliğe kadar dijital evrimin mimarlığını üstleniyoruz.
 
+<br>
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">TEMEL YETENEKLER</h3>
-      <ul>
-        <li>
-          <b>Özel B2B Yazılım Sistemleri:</b> Next.js, React ve Supabase ile inşa edilen ölçeklenebilir web mimarileri, kurumsal platformlar ve iş otomasyon sistemleri.
-        </li>
-        <li>
-          <b>Arama Mimarisi & GEO:</b> Hem geleneksel arama motorlarında hem de yapay zeka arama sistemlerinde mutlak görünürlük sağlayan teknik SEO ve Generative Engine Optimization mühendisliği.
-        </li>
-        <li>
-          <b>Kurumsal Kimlik & Marka Stratejisi:</b> Yüksek hassasiyetli marka sistemleri, teknik editoryal mizanpajlar, katalog tasarımı ve dijital kurumsal miras yönetimi.
-        </li>
-        <li>
-          <b>Yüksek Performans & Dönüşüm:</b> Kusursuz Core Web Vitals standartları ve dönüşüm odaklı kullanıcı deneyimi mimarileri.
-        </li>
-      </ul>
+      <h4>ÖZEL B2B YAZILIM SİSTEMLERİ</h4>
+      Next.js, React ve Supabase ile inşa edilen ölçeklenebilir web mimarileri, kurumsal platformlar ve iş otomasyon sistemleri.
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">LABORATUVAR & AKTİF SİSTEMLER</h3>
-      <ul>
-        <li>
-          <b><a href="https://github.com/MonarchDevLab/Anticore">Anticore</a></b><br>
-          Windows ve macOS için sıfır hız kayıplı, şeffaf DPI atlatma ve ağ optimizasyon paketi.
-        </li>
-        <li>
-          <b><a href="https://github.com/MonarchDevLab/WebClone-Studio">WebClone-Studio</a></b><br>
-          Yüksek performanslı web mimarisi çıkarma, DOM analizi ve kayıpsız çevrimdışı aynalama iş istasyonu.
-        </li>
-      </ul>
+      <h4>ARAMA MİMARİSİ & GEO</h4>
+      Klasik arama motorlarında ve yapay zeka arama sistemlerinde mutlak görünürlük sağlayan teknik SEO ve GEO mühendisliği.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>KURUMSAL KİMLİK & STRATEJİ</h4>
+      Yüksek hassasiyetli marka sistemleri, teknik editoryal mizanpajlar, katalog tasarımı ve dijital miras yönetimi.
+    </td>
+    <td width="50%" valign="top">
+      <h4>YÜKSEK PERFORMANS & DÖNÜŞÜM</h4>
+      Kusursuz Core Web Vitals standartları ve dönüşüm odaklı kullanıcı deneyimi mimarileri.
     </td>
   </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonarchDevLab&bg_color=020617&color=00edff&line=ff642b&point=00edff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+### Öne Çıkan Sistemler
+
+<p align="center">
+  <a href="https://github.com/MonarchDevLab/Anticore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=Anticore&bg_color=020617&title_color=00edff&icon_color=ff642b&text_color=94a3b8&hide_border=true" alt="Anticore" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MonarchDevLab/WebClone-Studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=WebClone-Studio&bg_color=020617&title_color=00edff&icon_color=ff642b&text_color=94a3b8&hide_border=true" alt="WebClone-Studio" />
+  </a>
+</p>
+
 </div>
 
 <br>
