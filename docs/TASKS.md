@@ -10,6 +10,7 @@
 - (Yok)
 
 ## TAMAMLANDI [x]
+- [x] 2026-10-02 `97e4a4c` Alt footer baglantilarindaki duz metinleri ve mavi alt cizgileri kaldirip saf baglantili vektor logolara donusturme.
 - [x] 2026-10-02 `bf754c2` Standart daktilo metnini kaldirip cift dilli ozel siber terminal scramble cozucu SVG'sini insa etme.
 - [x] 2026-10-02 `db42fa0` Hero hiyerarsisini yeniden duzenleme: Monolith logosu -> Scramble Terminal -> Antigravity/Claude -> Yetenek logolari; dil rozetlerini kaldirma.
 - [x] 2026-10-02 `388d60b` Alt footer bolumune resmi Monolith Works vektor logosu, LinkedIn ve Instagram logolarini ekleme.
