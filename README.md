@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://www.monolithworks.com.tr">
-    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/monolith-icon.svg" width="20" height="20" align="center" alt="Monolith Works" />
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/monolith-logo.svg" width="20" height="20" align="center" alt="Monolith Works" />
     <b>monolithworks.com.tr</b>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
