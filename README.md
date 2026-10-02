@@ -101,19 +101,16 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff642b,100:00edff&height=90&section=footer)
 
 <p align="center">
-  <a href="https://www.monolithworks.com.tr">
-    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/monolith-logo.svg" width="20" height="20" align="center" alt="Monolith Works" />
-    <b>monolithworks.com.tr</b>
+  <a href="https://www.monolithworks.com.tr" title="Monolith Works">
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/monolith-logo.svg" width="30" height="30" alt="Monolith Works" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/monolithworks">
-    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/linkedin.svg" width="20" height="20" align="center" alt="LinkedIn" />
-    <b>LinkedIn</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/monolithworks" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/linkedin.svg" width="30" height="30" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/monolithworkstudio">
-    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/instagram.svg" width="20" height="20" align="center" alt="Instagram" />
-    <b>Instagram</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/monolithworkstudio" title="Instagram">
+    <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/instagram.svg" width="30" height="30" alt="Instagram" />
   </a>
 </p>
 
