@@ -65,7 +65,7 @@
 
 <div id="featured-architectures">
 
-### // 03 . FEATURED ARCHITECTURES & CORE ENGINES
+### // 03 . FEATURED ARCHITECTURES
 
 <p align="center">
   <a href="https://github.com/MonarchDevLab/Anticore">
@@ -76,18 +76,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonarchDevLab&repo=WebClone-Studio&bg_color=00000000&title_color=00edff&icon_color=ff642b&text_color=94a3b8&border_color=00edff33&hide_border=false" alt="WebClone-Studio" />
   </a>
 </p>
-
-<br>
-
-| Mimari Sistem | Kapsam & Yetenek Alanı | Çekirdek Yığın | Durum |
-|---|---|---|---|
-| **[`monolith-hive`](https://github.com/MonarchDevLab/monolith-hive)** | v12.0 Sovereign Orchestrator: 21 Mod, 25 Alt Ajan, Kalıcı Sezgi Motoru | TypeScript / Node.js | Egemen Çekirdek |
-| **[`Anticore`](https://github.com/MonarchDevLab/Anticore)** | Sıfır Hız Kayıplı Ağ Optimizasyon & Şeffaf DPI Atlatma Paketi | Rust / C++ | Açık Kaynak |
-| **[`WebClone-Studio`](https://github.com/MonarchDevLab/WebClone-Studio)** | Kayıpsız Çevrimdışı Yansılama & Web Tersine Mühendislik İş İstasyonu | TypeScript / Playwright | Açık Kaynak |
-| **[`agentic-nexus`](https://github.com/MonarchDevLab/agentic-nexus)** | Sovereign Adaptive OS: Fikirden Canlıya MVP İnşa, Kurtarma & Savunma | TypeScript / React / SQL | Egemen Çekirdek |
-| **[`protocol-reverse`](https://github.com/MonarchDevLab/protocol-reverse) &nbsp;** | v5.0 Temiz Oda Tersine Mühendislik, Protokol & Ağ Rekonstrüksiyonu | Rust / Python / ASAR | Egemen Çekirdek |
-| **[`mw-design`](https://github.com/MonarchDevLab/mw-design)** | v3.5 Grand Studio: W3C APCA/OKLCH Renk Bilimi & 25 Sıfır-AI Bileşen | Next.js / Tailwind CSS | Egemen Çekirdek |
-
 </div>
 
 <br>
