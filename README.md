@@ -89,9 +89,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchDevLab&layout=compact&bg_color=00000000&title_color=00edff&text_color=94a3b8&hide_border=true" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonarchDevLab&background=00000000&stroke=00EDFF&ring=FF642B&fire=FF642B&currStreakNum=00EDFF&sideNums=00EDFF&currStreakLabel=FF642B&sideLabels=FF642B&dates=94A3B8&hide_border=true" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/MonarchDevLab/MonarchDevLab/main/assets/telemetry-matrix.svg" width="100%" alt="Ecosystem Telemetry Matrix" />
 </p>
 
 </div>

@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 210" width="850" height="210" fill="none">
+  <defs>
+    <!-- GLOW GRADIENTS -->
+    <linearGradient id="cyan-bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00EDFF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0099FF" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="orange-bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF642B" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF8C00" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="purple-bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="cyan-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00EDFF" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#00EDFF" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00EDFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="orange-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF642B" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#FF642B" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#FF642B" stop-opacity="0"/>
+    </linearGradient>
+    <!-- SCAN SHEEN -->
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- CLIP PATHS -->
+    <clipPath id="ts-clip">
+      <rect x="0" y="7" width="251" height="7" rx="3.5"/>
+    </clipPath>
+    <clipPath id="rust-clip">
+      <rect x="0" y="7" width="103" height="7" rx="3.5"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @font-face {
+      font-family: 'Fira Code';
+      font-style: normal;
+      font-weight: 400;
+      src: local('Fira Code'), local('SF Mono'), local('Menlo'), local('Consolas'), monospace;
+    }
+    .mono {
+      font-family: 'Fira Code', 'SF Mono', Menlo, Consolas, monospace;
+    }
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    /* KEYFRAME ANIMATIONS */
+    @keyframes pulse-cyan {
+      0%, 100% { opacity: 0.95; transform: scale(1); }
+      50% { opacity: 0.35; transform: scale(0.92); }
+    }
+    @keyframes pulse-orange {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.94); }
+    }
+    @keyframes sweep {
+      0% { transform: translateX(-400px); }
+      50%, 100% { transform: translateX(450px); }
+    }
+    @keyframes spin-ring {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes pulse-line {
+      0%, 100% { stroke-dashoffset: 0; opacity: 0.8; }
+      50% { stroke-dashoffset: 12; opacity: 0.3; }
+    }
+
+    .glow-dot-cyan {
+      animation: pulse-cyan 2.4s ease-in-out infinite;
+      transform-origin: 323px 25px;
+    }
+    .glow-dot-orange {
+      animation: pulse-orange 2s ease-in-out infinite;
+      transform-origin: 328px 25px;
+    }
+    .bar-sheen {
+      animation: sweep 4.5s ease-in-out infinite;
+    }
+    .radar-circle-1 {
+      animation: spin-ring 14s linear infinite;
+      transform-origin: 0px 0px;
+    }
+    .radar-circle-2 {
+      animation: spin-ring 18s linear infinite;
+      transform-origin: 0px 0px;
+    }
+    .live-pulse-line {
+      stroke-dasharray: 4 3;
+      animation: pulse-line 3s linear infinite;
+    }
+  </style>
+
+  <!-- ==================== LEFT COCKPIT: PRODUCTION RUNTIMES & STACK (0 to 415) ==================== -->
+  <g transform="translate(0, 0)">
+    <!-- Container Card -->
+    <rect width="415" height="210" rx="8" fill="#070d1e" stroke="#00EDFF" stroke-width="1" stroke-opacity="0.25"/>
+    <rect x="0" y="0" width="180" height="2" fill="url(#cyan-glow)" rx="1"/>
+
+    <!-- Header & Badge -->
+    <g transform="translate(18, 16)">
+      <!-- Terminal Icon -->
+      <g stroke="#00EDFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <polyline points="2 4 7 9 2 14"/>
+        <line x1="10" y1="14" x2="16" y2="14"/>
+      </g>
+      <text x="26" y="11" class="sans" font-weight="700" font-size="12" fill="#00EDFF" letter-spacing="0.5px">PRODUCTION RUNTIMES</text>
+    </g>
+
+    <!-- Status Pill -->
+    <rect x="312" y="16" width="85" height="18" rx="4" fill="#00EDFF" fill-opacity="0.08" stroke="#00EDFF" stroke-width="0.8" stroke-opacity="0.3"/>
+    <circle cx="323" cy="25" r="3.5" fill="#00EDFF" class="glow-dot-cyan"/>
+    <text x="357" y="28.5" class="mono" font-size="9" fill="#00EDFF" text-anchor="middle" font-weight="600">VERIFIED</text>
+
+    <!-- Progress Bar 1: TypeScript -->
+    <g transform="translate(18, 52)">
+      <text x="0" y="0" class="mono" font-size="10.5" fill="#94A3B8" font-weight="600">TypeScript / Node.js</text>
+      <text x="379" y="0" class="mono" font-size="10.5" fill="#00EDFF" font-weight="700" text-anchor="end">66.2%</text>
+      <!-- Track -->
+      <rect x="0" y="7" width="379" height="7" rx="3.5" fill="#0f172a"/>
+      <!-- Fill -->
+      <g clip-path="url(#ts-clip)">
+        <rect x="0" y="7" width="251" height="7" rx="3.5" fill="url(#cyan-bar)"/>
+        <rect x="0" y="7" width="80" height="7" fill="url(#sheen)" class="bar-sheen"/>
+      </g>
+    </g>
+
+    <!-- Progress Bar 2: Rust -->
+    <g transform="translate(18, 92)">
+      <text x="0" y="0" class="mono" font-size="10.5" fill="#94A3B8" font-weight="600">Rust (Native Kernels)</text>
+      <text x="379" y="0" class="mono" font-size="10.5" fill="#FF642B" font-weight="700" text-anchor="end">27.3%</text>
+      <!-- Track -->
+      <rect x="0" y="7" width="379" height="7" rx="3.5" fill="#0f172a"/>
+      <!-- Fill -->
+      <g clip-path="url(#rust-clip)">
+        <rect x="0" y="7" width="103" height="7" rx="3.5" fill="url(#orange-bar)"/>
+        <rect x="0" y="7" width="80" height="7" fill="url(#sheen)" class="bar-sheen"/>
+      </g>
+    </g>
+
+    <!-- Progress Bar 3: Web Systems / CSS -->
+    <g transform="translate(18, 132)">
+      <text x="0" y="0" class="mono" font-size="10.5" fill="#94A3B8" font-weight="600">CSS &amp; Standards</text>
+      <text x="379" y="0" class="mono" font-size="10.5" fill="#A855F7" font-weight="700" text-anchor="end">4.0%</text>
+      <!-- Track -->
+      <rect x="0" y="7" width="379" height="7" rx="3.5" fill="#0f172a"/>
+      <!-- Fill -->
+      <rect x="0" y="7" width="22" height="7" rx="3.5" fill="url(#purple-bar)"/>
+    </g>
+
+    <!-- Bottom Specs Footer -->
+    <g transform="translate(18, 185)">
+      <line x1="0" y1="0" x2="379" y2="0" stroke="#1e293b" stroke-width="1"/>
+      <text x="0" y="14" class="mono" font-size="9" fill="#475569">DISCIPLINE: <tspan fill="#38BDF8">TypeSafe</tspan> • <tspan fill="#FB923C">MemorySafe</tspan> • <tspan fill="#A855F7">W3C/WCAG</tspan></text>
+    </g>
+  </g>
+
+  <!-- ==================== RIGHT COCKPIT: DISCIPLINE & VELOCITY (435 to 850) ==================== -->
+  <g transform="translate(435, 0)">
+    <!-- Container Card -->
+    <rect width="415" height="210" rx="8" fill="#070d1e" stroke="#FF642B" stroke-width="1" stroke-opacity="0.25"/>
+    <rect x="0" y="0" width="180" height="2" fill="url(#orange-glow)" rx="1"/>
+
+    <!-- Header & Badge -->
+    <g transform="translate(18, 16)">
+      <!-- Activity Flame Icon -->
+      <g stroke="#FF642B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <path d="M8.5 1.5C8.5 1.5 13 5.5 13 9.5C13 12 11 14.5 8.5 14.5C6 14.5 4 12 4 9.5C4 7.5 6 5 8.5 1.5Z"/>
+      </g>
+      <text x="24" y="11" class="sans" font-weight="700" font-size="12" fill="#FF642B" letter-spacing="0.5px">VELOCITY &amp; INTEGRITY</text>
+    </g>
+
+    <!-- Status Pill -->
+    <rect x="317" y="16" width="80" height="18" rx="4" fill="#FF642B" fill-opacity="0.08" stroke="#FF642B" stroke-width="0.8" stroke-opacity="0.3"/>
+    <circle cx="328" cy="25" r="3.5" fill="#FF642B" class="glow-dot-orange"/>
+    <text x="360" y="28.5" class="mono" font-size="9" fill="#FF642B" text-anchor="middle" font-weight="600">OPTIMAL</text>
+
+    <!-- DIAL 1: TOTAL VERIFIED COMMITS -->
+    <g transform="translate(95, 108)">
+      <!-- Radar ring -->
+      <circle cx="0" cy="0" r="42" stroke="#00EDFF" stroke-width="1.5" stroke-opacity="0.2" fill="none"/>
+      <g class="radar-circle-1">
+        <circle cx="0" cy="0" r="42" stroke="#00EDFF" stroke-width="2.5" stroke-dasharray="25 15" stroke-linecap="round" fill="none"/>
+      </g>
+      <!-- Inner core -->
+      <circle cx="0" cy="0" r="33" fill="#020617" stroke="#00EDFF" stroke-width="0.8" stroke-opacity="0.4"/>
+      <!-- Number -->
+      <text x="0" y="4" class="sans" font-weight="800" font-size="20" fill="#00EDFF" text-anchor="middle" letter-spacing="-0.5px">255+</text>
+      <text x="0" y="17" class="mono" font-size="7.5" fill="#94A3B8" text-anchor="middle">COMMITS</text>
+      <text x="0" y="58" class="mono" font-size="9.5" fill="#94A3B8" text-anchor="middle" font-weight="600">Total Contributions</text>
+    </g>
+
+    <!-- Center Separator Pulse -->
+    <line x1="207" y1="58" x2="207" y2="155" stroke="#FF642B" stroke-width="1" stroke-opacity="0.25" class="live-pulse-line"/>
+
+    <!-- DIAL 2: STREAK & CONTINUITY -->
+    <g transform="translate(320, 108)">
+      <!-- Radar ring -->
+      <circle cx="0" cy="0" r="42" stroke="#FF642B" stroke-width="1.5" stroke-opacity="0.2" fill="none"/>
+      <g class="radar-circle-2">
+        <circle cx="0" cy="0" r="42" stroke="#FF642B" stroke-width="2.5" stroke-dasharray="30 20" stroke-linecap="round" fill="none"/>
+      </g>
+      <!-- Inner core -->
+      <circle cx="0" cy="0" r="33" fill="#020617" stroke="#FF642B" stroke-width="0.8" stroke-opacity="0.4"/>
+      <!-- Number -->
+      <text x="0" y="4" class="sans" font-weight="800" font-size="20" fill="#FF642B" text-anchor="middle" letter-spacing="-0.5px">100%</text>
+      <text x="0" y="17" class="mono" font-size="7.5" fill="#94A3B8" text-anchor="middle">ZERO-SLOP</text>
+      <text x="0" y="58" class="mono" font-size="9.5" fill="#94A3B8" text-anchor="middle" font-weight="600">Engineering Integrity</text>
+    </g>
+
+    <!-- Bottom Specs Footer -->
+    <g transform="translate(18, 185)">
+      <line x1="0" y1="0" x2="379" y2="0" stroke="#1e293b" stroke-width="1"/>
+      <text x="0" y="14" class="mono" font-size="9" fill="#475569">GUARANTEE: <tspan fill="#FB923C">Triple-Lock Gate</tspan> • <tspan fill="#00EDFF">Zero Leakage</tspan> • <tspan fill="#38BDF8">Humanizer v4</tspan></text>
+    </g>
+  </g>
+</svg>
