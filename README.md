@@ -23,19 +23,6 @@
 <a href="https://www.monolithworks.com.tr">
   <img src="https://skillicons.dev/icons?i=ts,js,rust,nodejs,nextjs,react,tailwind,supabase,postgres,python,docker,cloudflare&theme=dark" alt="Tech Stack" />
 </a>
-
-<br><br>
-
-<p align="center">
-  <a href="#-01--system-architecture--capabilities"><code>[ 🇬🇧 System Architecture ]</code></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-02--temel-yetenekler-ve-mimari"><code>[ 🇹🇷 Temel Mimari ]</code></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-03--featured-architectures"><code>[ ⚡ Core Engines ]</code></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-04--ecosystem-telemetry--activity"><code>[ 📊 Telemetry ]</code></a>
-</p>
-
 </div>
 
 <br>
