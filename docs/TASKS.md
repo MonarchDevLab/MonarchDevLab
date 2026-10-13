@@ -10,6 +10,7 @@
 - (Yok)
 
 ## TAMAMLANDI [x]
+- [x] 2026-10-13 `20ffc1a` Üçüncü taraf uyumsuz ve statik widget'lar yerine, 850px nizamında özel animasyonlu (radar taraması, pulse LED'ler, hareketli ışık parıltısı) `assets/telemetry-matrix.svg` kokpiti geliştirildi ve entegre edildi.
 - [x] 2026-10-13 `6541964` Gizli/özel monolitik depoların (monolith-hive, agentic-nexus vb.) yer aldığı tablo tamamen kaldırıldı; profilde yalnızca herkese açık sistemler (Anticore, WebClone-Studio) ve şeffaf telemetri bırakıldı.
 - [x] 2026-10-13 `6d6e87e` Sayfa basindaki gereksiz emoji ve kod etiketi iceren navigasyon linkleri tamamen kaldirildi; yalin brutalist hiyerarsi korundu.
 - [x] 2026-10-13 `634e2e9` Profil README'sinde seffaf arka planli ikili telemetri paneli (Top Languages + Streak Stats), birlestirilmis mimari matrisi ve gelismis yigin rozetleri entegre edildi.

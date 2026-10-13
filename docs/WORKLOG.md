@@ -17,4 +17,5 @@
 
 ### Mimari Kararlar
 - **[PROTOKOL-005] Seffaf Telemetri ve Uyum:** GitHub Koyu modunda (`#0d1117`) kartlarin kutu gibi gorunmesini engellemek icin `background=00000000` ve `bg_color=00000000` kullanilarak telemetri araclari (Top Languages & Streak Stats) seffaf kilindi.
-- **[PROTOKOL-006] Sistem Dilleri & Birlestirilmis Matris:** Rust ve Python yigina dahil edildi; cift dilli bolumlerdeki kopya pin kartlari kaldirilarak merkezi `FEATURED ARCHITECTURES & CORE ENGINES` tablosunda birlestirildi.
+- **[PROTOKOL-006] Sistem Dilleri & Birlestirilmis Matris:** Rust ve Python yigina dahil edildi; cift dilli bolumlerdeki kopya pin kartlari kaldirilarak merkezi `FEATURED ARCHITECTURES` duzeninde birlestirildi.
+- **[PROTOKOL-007] Ozel Hareketli Telemetri Kokpiti:** Ucuncu taraf kirilgan veya orantisiz widget'lar (Streak / Top-Langs) yerine, `assets/telemetry-matrix.svg` ile SMIL/CSS keyframe animasyonlu (radar cemberi, isik pariltisi, pulse ledler) 850px siber kokpit mimarisi entegre edildi.
