@@ -10,6 +10,7 @@
 - (Yok)
 
 ## TAMAMLANDI [x]
+- [x] 2026-10-13 `6d6e87e` Sayfa basindaki gereksiz emoji ve kod etiketi iceren navigasyon linkleri tamamen kaldirildi; yalin brutalist hiyerarsi korundu.
 - [x] 2026-10-13 `634e2e9` Profil README'sinde seffaf arka planli ikili telemetri paneli (Top Languages + Streak Stats), birlestirilmis mimari matrisi ve gelismis yigin rozetleri entegre edildi.
 - [x] 2026-10-02 `97e4a4c` Alt footer baglantilarindaki duz metinleri ve mavi alt cizgileri kaldirip saf baglantili vektor logolara donusturme.
 - [x] 2026-10-02 `bf754c2` Standart daktilo metnini kaldirip cift dilli ozel siber terminal scramble cozucu SVG'sini insa etme.
