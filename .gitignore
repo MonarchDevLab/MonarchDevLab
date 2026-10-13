@@ -1,0 +1,4 @@
+*.bak
+*.backup.md
+.DS_Store
+Thumbs.db
